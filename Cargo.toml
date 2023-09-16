@@ -11,7 +11,7 @@ edition = "2021"
 
 [dependencies]
 async-trait = "0.1"
-datafusion = "9.0"
+datafusion = "31.0.0"
 rand = "0.8"
 structopt = "0.3"
 tokio = "1.19"
